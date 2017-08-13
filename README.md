@@ -19,6 +19,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [Languages](#languages)
   - [node.js](#nodejs)
   - [Others](#others)
+  - [GUIs](#guis)
 - [Tools](#tools)
   - [Kits](#kits)
   - [Editor](#editor)
@@ -114,6 +115,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [wasm - Python WebAssembly decoder & disassembler library](https://github.com/athre0z/wasm)
 - [MXnet.js - ASM.js build of MXNet, deep learning (neural nets and so) library](https://github.com/dmlc/mxnet.js/)
 - [YAKC - a multi-system 8-bit emulator written in C++](https://floooh.github.io/virtualkc/index_wasm.html)
+#### GUIs
+- [AssortedWidgets](http://shi-yan.github.io/AssortedWidgets/)
+- [uklearUIBasic](http://floooh.github.io/oryol-samples/asmjs/NuklearUIBasic.html)
+- [ImGui](http://floooh.github.io/oryol-samples/asmjs/ImGuiDemo.html)
+- [TurboBadger](http://floooh.github.io/oryol-samples/asmjs/TurboBadgerDemo.html)
 
 ### Tools
 
